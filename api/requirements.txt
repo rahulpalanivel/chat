@@ -1,0 +1,12 @@
+langchain
+langchain-google-genai
+langchain_mistralai
+langchain-core
+langchain_community
+langchain_qdrant
+pypdf
+python-multipart
+fastapi
+uvicorn
+streamlit
+sqlitecloud
